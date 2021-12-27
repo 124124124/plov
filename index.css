@@ -1,0 +1,11 @@
+* {
+  font-family: "Inter";
+}
+body{ 
+  height: 100vh;
+  display: grid;
+  place-items: center;
+}
+.container {
+  width: 100vw;
+}
